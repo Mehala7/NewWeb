@@ -1,0 +1,27 @@
+.expandStyle{
+	display:table-row
+}
+
+.collapseStyle{
+	display:none
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    border:1px solid #D3D3D3;
+}
+
+td{
+    border-collapse:collapse;
+    border:1px solid #D3D3D3;
+}
+
+th{
+    background:#D3D3D3;
+}
+
+caption{
+	text-align: left;
+	font-weight: bold;
+}
